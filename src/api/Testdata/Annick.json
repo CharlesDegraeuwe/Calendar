@@ -1,0 +1,438 @@
+{
+  "name": "Annick Peeren",
+  "status": "Teacher",
+  "academies": ["Wetteren", "Deinze"],
+  "leerlingen": {
+    "Wetteren": [
+      {
+        "llnId": "2",
+        "name": "Hau-Yi Wong",
+        "graad": 4.3,
+        "lesdag": "Woensdag",
+        "lesuur": "16:30",
+        "huiswerk": []
+      },
+      {
+        "llnId": "3",
+        "name": "Lise Jacobsen",
+        "lesdag": "Donderdag",
+        "graad": 4.1,
+        "lesuur": "14:00",
+        "huiswerk": []
+      },
+      {
+        "llnId": "4",
+        "name": "Liselotte De Roock",
+        "lesdag": "Zaterdag",
+        "graad": 3.1,
+        "lesuur": "16:45",
+        "huiswerk": []
+      },
+      {
+        "llnId": "5",
+        "name": "Noah Vermeersch",
+        "graad": 2.2,
+        "lesdag": "Dinsdag",
+        "lesuur": "17:15",
+        "huiswerk": []
+      },
+      {
+        "llnId": "6",
+        "name": "Amira El-Baz",
+        "graad": 3.3,
+        "lesdag": "Woensdag",
+        "lesuur": "17:30",
+        "huiswerk": []
+      },
+      {
+        "llnId": "7",
+        "name": "Jasper Van Acker",
+        "graad": 5.1,
+        "lesdag": "Vrijdag",
+        "lesuur": "16:00",
+        "huiswerk": [
+          {
+            "id": 1,
+            "date": "07.10.2025",
+            "werk": "Etude nr. 1",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Ademhaling verdelen, toon zuiver houden"
+          },
+          {
+            "id": 2,
+            "date": "14.10.2025",
+            "werk": "Sonate in G majeur",
+            "componist": "Telemann",
+            "deel": "1e deel – Largo",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Tempo rustig, frasering vloeiend"
+          },
+          {
+            "id": 3,
+            "date": "21.10.2025",
+            "werk": "Etude nr. 4",
+            "componist": "Andersen",
+            "deel": "Maten 1–32",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Staccato oefenen, let op ritmeverschillen"
+          },
+          {
+            "id": 4,
+            "date": "28.10.2025",
+            "werk": "Syrinx",
+            "componist": "Claude Debussy",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Vrij rubato, dynamiek contrasten groot maken"
+          },
+          {
+            "id": 5,
+            "date": "04.11.2025",
+            "werk": "Etude nr. 6",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Let op gelijkmatige toonvorming en intonatie"
+          },
+          {
+            "id": 6,
+            "date": "11.11.2025",
+            "werk": "Concerto in D majeur",
+            "componist": "Vivaldi",
+            "deel": "1e deel – Allegro",
+            "Bezetting": "Fluit en orkest",
+            "Opmerkingen": "Articulatie en barokstijl benadrukken"
+          },
+          {
+            "id": 7,
+            "date": "18.11.2025",
+            "werk": "Sonate in E mineur",
+            "componist": "Bach",
+            "deel": "2e deel – Andante",
+            "Bezetting": "Fluit en continuo",
+            "Opmerkingen": "Lange zinnen fraseren, ademhalingsmomenten plannen"
+          },
+          {
+            "id": 8,
+            "date": "25.11.2025",
+            "werk": "Etude nr. 12",
+            "componist": "Andersen",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Technische passages langzaam opbouwen, ritmisch stabiel"
+          },
+          {
+            "id": 9,
+            "date": "02.12.2025",
+            "werk": "Romance",
+            "componist": "Gabriel Fauré",
+            "deel": "Volledig",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Lyrische toonvorming en expressie oefenen"
+          },
+          {
+            "id": 10,
+            "date": "09.12.2025",
+            "werk": "Etude nr. 15",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Legato-lijnen verbinden, gelijkmatige ademhaling"
+          },
+          {
+            "id": 11,
+            "date": "16.12.2025",
+            "werk": "Noël",
+            "componist": "Jules Demersseman",
+            "deel": "Volledig",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Voorbereiding kerstoptreden: dynamiek en tempo controleren"
+          }
+        ]
+      },
+      {
+        "llnId": "8",
+        "name": "Sofia Martínez",
+        "graad": 4.2,
+        "lesdag": "Donderdag",
+        "lesuur": "16:30",
+        "huiswerk": []
+      },
+      {
+        "llnId": "9",
+        "name": "Emma Janssens",
+        "graad": 1.3,
+        "lesdag": "Zaterdag",
+        "lesuur": "17:15",
+        "huiswerk": []
+      },
+      {
+        "llnId": "10",
+        "name": "Luka Petrović",
+        "graad": 6.2,
+        "lesdag": "Dinsdag",
+        "lesuur": "16:45",
+        "huiswerk": []
+      }
+    ],
+    "Deinze": [
+      {
+        "llnId": "11",
+        "name": "Milan De Smet",
+        "graad": 2.1,
+        "lesdag": "Vrijdag",
+        "lesuur": "16:30",
+        "huiswerk": []
+      },
+      {
+        "llnId": "12",
+        "name": "Aisha Khan",
+        "graad": 3.2,
+        "lesdag": "Vrijdag",
+        "lesuur": "17:00",
+        "huiswerk": []
+      },
+      {
+        "llnId": "13",
+        "name": "Victor Claes",
+        "graad": 5.3,
+        "lesdag": "Dinsdag",
+        "lesuur": "18:00",
+        "huiswerk": []
+      },
+      {
+        "llnId": "14",
+        "name": "Yara Mendes",
+        "graad": 4.2,
+        "lesdag": "Vrijdag",
+        "lesuur": "17:15",
+        "huiswerk": []
+      },
+      {
+        "llnId": "15",
+        "name": "Jonas Verhulst",
+        "graad": 6.1,
+        "lesdag": "Vrijdag",
+        "lesuur": "16:45",
+        "huiswerk": []
+      },
+      {
+        "llnId": "16",
+        "name": "Elif Demir",
+        "graad": 1.2,
+        "lesdag": "Dinsdag",
+        "lesuur": "16:30",
+        "huiswerk": [
+          {
+            "id": 1,
+            "date": "07.10.2025",
+            "werk": "Etude nr. 1",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Ademhaling verdelen, toon zuiver houden"
+          },
+          {
+            "id": 2,
+            "date": "14.10.2025",
+            "werk": "Sonate in G majeur",
+            "componist": "Telemann",
+            "deel": "1e deel – Largo",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Tempo rustig, frasering vloeiend"
+          },
+          {
+            "id": 3,
+            "date": "21.10.2025",
+            "werk": "Etude nr. 4",
+            "componist": "Andersen",
+            "deel": "Maten 1–32",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Staccato oefenen, let op ritmeverschillen"
+          },
+          {
+            "id": 4,
+            "date": "28.10.2025",
+            "werk": "Syrinx",
+            "componist": "Claude Debussy",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Vrij rubato, dynamiek contrasten groot maken"
+          },
+          {
+            "id": 5,
+            "date": "04.11.2025",
+            "werk": "Etude nr. 6",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Let op gelijkmatige toonvorming en intonatie"
+          },
+          {
+            "id": 6,
+            "date": "11.11.2025",
+            "werk": "Concerto in D majeur",
+            "componist": "Vivaldi",
+            "deel": "1e deel – Allegro",
+            "Bezetting": "Fluit en orkest",
+            "Opmerkingen": "Articulatie en barokstijl benadrukken"
+          },
+          {
+            "id": 7,
+            "date": "18.11.2025",
+            "werk": "Sonate in E mineur",
+            "componist": "Bach",
+            "deel": "2e deel – Andante",
+            "Bezetting": "Fluit en continuo",
+            "Opmerkingen": "Lange zinnen fraseren, ademhalingsmomenten plannen"
+          },
+          {
+            "id": 8,
+            "date": "25.11.2025",
+            "werk": "Etude nr. 12",
+            "componist": "Andersen",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Technische passages langzaam opbouwen, ritmisch stabiel"
+          },
+          {
+            "id": 9,
+            "date": "02.12.2025",
+            "werk": "Romance",
+            "componist": "Gabriel Fauré",
+            "deel": "Volledig",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Lyrische toonvorming en expressie oefenen"
+          },
+          {
+            "id": 10,
+            "date": "09.12.2025",
+            "werk": "Etude nr. 15",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Legato-lijnen verbinden, gelijkmatige ademhaling"
+          },
+          {
+            "id": 11,
+            "date": "16.12.2025",
+            "werk": "Noël",
+            "componist": "Jules Demersseman",
+            "deel": "Volledig",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Voorbereiding kerstoptreden: dynamiek en tempo controleren"
+          }
+        ]
+      },
+      {
+        "llnId": "17",
+        "name": "Gabriel Rossi",
+        "graad": 3.3,
+        "lesdag": "Vrijdag",
+        "lesuur": "17:30",
+        "huiswerk": []
+      },
+      {
+        "llnId": "18",
+        "name": "Nina Peeters",
+        "graad": 2.3,
+        "lesdag": "Dinsdag",
+        "lesuur": "17:00",
+        "huiswerk": [
+          {
+            "id": 1,
+            "date": "08.10.2025",
+            "werk": "Etude nr. 2",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Accent op dynamiek, toonkwaliteit behouden"
+          },
+          {
+            "id": 2,
+            "date": "15.10.2025",
+            "werk": "Menuet",
+            "componist": "Johann Sebastian Bach",
+            "deel": "Uit Notenbüchlein",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Stijlgevoel barok, articulatie licht"
+          },
+          {
+            "id": 3,
+            "date": "22.10.2025",
+            "werk": "Etude nr. 5",
+            "componist": "Andersen",
+            "deel": "Maten 1–24",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Vingersnelheid trainen, ritme exact houden"
+          },
+          {
+            "id": 4,
+            "date": "29.10.2025",
+            "werk": "Pan et les bergers",
+            "componist": "Jules Mouquet",
+            "deel": "Volledig",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Karakter uitbeelden, frasering ademend"
+          },
+          {
+            "id": 5,
+            "date": "05.11.2025",
+            "werk": "Etude nr. 7",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Controle van toonhoogte in hoge ligging"
+          },
+          {
+            "id": 6,
+            "date": "12.11.2025",
+            "werk": "Concertino",
+            "componist": "Cécile Chaminade",
+            "deel": "Begin tot maat 64",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Expressie en opbouw spanning oefenen"
+          },
+          {
+            "id": 7,
+            "date": "19.11.2025",
+            "werk": "Etude nr. 9",
+            "componist": "Andersen",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Staccato en legato contrasten versterken"
+          },
+          {
+            "id": 8,
+            "date": "26.11.2025",
+            "werk": "Sicilienne",
+            "componist": "Gabriel Fauré",
+            "deel": "Volledig",
+            "Bezetting": "Fluit en piano",
+            "Opmerkingen": "Lyrische toonvorming, tempo stabiel"
+          },
+          {
+            "id": 9,
+            "date": "03.12.2025",
+            "werk": "Etude nr. 10",
+            "componist": "Berbiguier",
+            "deel": "Volledig",
+            "Bezetting": "Solo",
+            "Opmerkingen": "Legato soepel houden, adem goed plannen"
+          },
+          {
+            "id": 10,
+            "date": "10.12.2025",
+            "werk": "Badinerie",
+            "componist": "Johann Sebastian Bach",
+            "deel": "Volledig",
+            "Bezetting": "Fluit en orkest/piano",
+            "Opmerkingen": "Virtuositeit en ritmische precisie centraal"
+          }
+        ]
+      }
+    ]
+  }
+}
